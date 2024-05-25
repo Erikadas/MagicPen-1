@@ -47,6 +47,7 @@ body {
 }
 .menu-toggle {
     display: none;
+    margin-left: 10px;
 }
 .menu-bar {
     width: 25px;

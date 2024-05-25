@@ -47,6 +47,7 @@ body {
 }
 .menu-toggle {
     display: none;
+    margin-left: 10px;
 }
 .menu-bar {
     width: 25px;
@@ -131,6 +132,13 @@ body {
         height: 40vh; 
     }
        
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    
 }
 
 .footer {
